@@ -17,7 +17,6 @@ body {
     background: rgba(245, 245, 245, 0.699);
     padding: 30px;
 }
-
 .login-right{
     background: #fff;
     padding: 30px;
@@ -31,7 +30,7 @@ h1{
 .bgimg{
     height: 100%;
     width: 100%;
-    background-image: url('images/Background.jpg');
+    background-image: url("/images/Background.jpg");
     background-position: center;
     background-size: cover;
     position: absolute;
